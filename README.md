@@ -74,7 +74,7 @@ and contribution to sustainable environment.
 
 ## System Requirment
 
-- Ubuntu 20.04
+- Ubuntu 22.04
 - ROS2 Humble
 
 ## Instructor
