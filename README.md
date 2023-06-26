@@ -42,16 +42,16 @@ and contribution to sustainable environment.
   ```
 
 
-- Move the robot for taking the photo of object and get the predcition
+- Move the robot for taking the photo of object and it in a directory
 
 ```
- $ ros2 launch 
+ $ ros2 launch big_bazu photo.launch.py
   ```
 
-- Pick and Place the Waste object into respective bins
+- For requesting the server with the image for prediction, picking and placing the object in their respective bins
 
 ```
- $ ros2 launch 
+ $ ros2 launch big_bazu pick_place.launch.py
   ```
 
 
