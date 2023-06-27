@@ -56,6 +56,7 @@ and contribution to sustainable environment.
 
 ## Gazebo Simulation
 
+https://github.com/Komalsai234/Waste-Segregation-using-ROS2/assets/99163734/fabde290-824a-4a4c-80e2-5d0a1ec6fafe
 
 
 
