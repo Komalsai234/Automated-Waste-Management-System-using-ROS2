@@ -84,7 +84,7 @@ https://github.com/Komalsai234/Waste-Segregation-using-ROS2/assets/99163734/fabd
 
 ## Instructor
 
-### Dr. Navneeth Haridasan, Assistant Professor, Center for Computational Engineering and Networking (CEN)
+### Dr. Navaneeth Haridasan, Assistant Professor, Center for Computational Engineering and Networking (CEN)
 
 
 ## Contributors
