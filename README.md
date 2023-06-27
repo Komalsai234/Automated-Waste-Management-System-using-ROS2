@@ -15,44 +15,47 @@ and contribution to sustainable environment.
 ## How to run this Package
 
 - Move into your workspace/src folder
-```
+```bash
  $ cd path/to/ros2_ws/src/
   ```
 
 
 - Clone this repository into you workspace
-```
- $ git clone 
+```bash
+ $ git clone https://github.com/Komalsai234/Waste-Segregation-using-ROS2.git
   ```
 
 
 - Colcon build
 
-```
+```bash
  $ cd .. 
 
- $ colcon build --package-select 
+ $ colcon build --package-select my_robot
   ```
 
 
 - Launch the gazebo file containing robot and the object
 
-```
- $ ros2 launch big_bazu controller.launch.py
+```bash
+ $ ros2 launch my_robot controller.launch.py
   ```
 
 
 - Move the robot for taking the photo of object and it in a directory
 
-```
- $ ros2 launch big_bazu photo.launch.py
+```bash
+ $ ros2 launch my_robot photo.launch.py
   ```
 
 - For requesting the server with the image for prediction, picking and placing the object in their respective bins
 
-```
- $ ros2 launch big_bazu pick_place.launch.py
+```bash
+ $ ros2 launch my_robot pick_place.launch.py
   ```
+
+## Gazebo Simulation
+
 
 
 
@@ -76,6 +79,7 @@ and contribution to sustainable environment.
 
 - Ubuntu 22.04
 - ROS2 Humble
+- Gazebo 11
 
 ## Instructor
 
