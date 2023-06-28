@@ -31,27 +31,27 @@ and contribution to sustainable environment.
 ```bash
  $ cd .. 
 
- $ colcon build --package-select my_robot
+ $ colcon build --package-select big_bazu
   ```
 
 
 - Launch the gazebo file containing robot and the object
 
 ```bash
- $ ros2 launch my_robot controller.launch.py
+ $ ros2 launch big_bazu controller.launch.py
   ```
 
 
 - Move the robot for taking the photo of object and it in a directory
 
 ```bash
- $ ros2 launch my_robot photo.launch.py
+ $ ros2 launch big_bazu photo.launch.py
   ```
 
 - For requesting the server with the image for prediction, picking and placing the object in their respective bins
 
 ```bash
- $ ros2 launch my_robot pick_place.launch.py
+ $ ros2 launch big_bazu pick_place.launch.py
   ```
 
 ## Gazebo Simulation
