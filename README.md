@@ -78,7 +78,7 @@ https://github.com/Komalsai234/Waste-Segregation-using-ROS2/assets/99163734/fabd
 
 ## System Requirment
 
-- Ubuntu 22.04.02
+- Ubuntu 22.04
 - ROS2 Humble
 - Gazebo 11
 
